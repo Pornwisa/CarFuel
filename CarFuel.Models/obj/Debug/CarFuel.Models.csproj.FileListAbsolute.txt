@@ -1,0 +1,7 @@
+D:\TDD\TestDriven\CarFuel.Models\bin\Debug\CarFuel.Models.dll
+D:\TDD\TestDriven\CarFuel.Models\bin\Debug\CarFuel.Models.pdb
+D:\TDD\TestDriven\CarFuel.Models\obj\Debug\CarFuel.Models.csprojResolveAssemblyReference.cache
+D:\TDD\TestDriven\CarFuel.Models\obj\Debug\CarFuel.Models.dll
+D:\TDD\TestDriven\CarFuel.Models\obj\Debug\CarFuel.Models.pdb
+D:\TDD\TestDriven\CarFuel.Models\bin\Debug\CarFuel.Utils.dll
+D:\TDD\TestDriven\CarFuel.Models\bin\Debug\CarFuel.Utils.pdb

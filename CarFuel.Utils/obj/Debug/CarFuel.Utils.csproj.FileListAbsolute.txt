@@ -1,0 +1,4 @@
+D:\TDD\TestDriven\CarFuel.Utils\bin\Debug\CarFuel.Utils.dll
+D:\TDD\TestDriven\CarFuel.Utils\bin\Debug\CarFuel.Utils.pdb
+D:\TDD\TestDriven\CarFuel.Utils\obj\Debug\CarFuel.Utils.dll
+D:\TDD\TestDriven\CarFuel.Utils\obj\Debug\CarFuel.Utils.pdb
